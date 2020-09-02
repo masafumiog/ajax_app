@@ -1,0 +1,18 @@
+.lists{
+display: flex;
+justify-content: space-around;
+list-style: none;
+}
+
+.list{
+  height: 80px;
+  width: 30vw;
+  font-size: 55px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.list content{
+  background-color: black;
+  color: white;
+}
